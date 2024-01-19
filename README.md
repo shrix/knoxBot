@@ -1,4 +1,4 @@
-# 💬 KnoxBot
+# 💬 knoxBot
 This bot is created using the open-source LLM models.
 
 Currently, we use [**Llama2**](https://replicate.com/meta) models deployed on [Replicate](https://replicate.com/) platform.
