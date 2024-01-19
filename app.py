@@ -3,6 +3,7 @@ import requests
 import replicate
 import streamlit as st
 from dotenv import load_dotenv
+
 # export REPLICATE_API_TOKEN="your_replicate_token"
 # .env file w/  REPLICATE_API_TOKEN="your_replicate_token"
 load_dotenv()
